@@ -1,5 +1,6 @@
 
-[   
+{
+    "bai":  [   
 {  
       "song":"Afreen Afreen",
       "url":"http://hck.re/Rh8KTk",
@@ -61,3 +62,4 @@
       "cover_image":"http://hck.re/gs0grk"
    }
 ]
+}
