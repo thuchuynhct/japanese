@@ -1,8 +1,10 @@
 [   
    {
       "logo":"",
-	  "author":"",
-	  "slide1":"https://vn-test-11.slatic.net/p/bb172bf56dc4980971fce0e797bbea03.jpg",
+	  "author":""	  
+   } ,
+   {
+   	  "slide1":"https://vn-test-11.slatic.net/p/bb172bf56dc4980971fce0e797bbea03.jpg",
 	  "title1":"Mùa hè ở Nhật Bản",
 	  "slide2":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXu5sgsQCXMAeCBQamqC5EliIwwK3cAArifQ&usqp=CAU",
 	  "title2":"Ánh bình minh",
@@ -10,5 +12,5 @@
 	  "title3":"Đông ấm",
 	  "slide4":"https://hinhanhdephd.com/wp-content/uploads/2019/04/nhung-hinh-anh-anime-nu-de-thuong-nhat-2.png",
 	  "title4":"Hình ảnh sinh hoạt"
-   }  
+   }
 ]
