@@ -4,13 +4,16 @@
 	  "author":""	  
    } ,
    {
-   	  "slide1":"https://vn-test-11.slatic.net/p/bb172bf56dc4980971fce0e797bbea03.jpg",
-	  "title1":"Mùa hè ở Nhật Bản",
-	  "slide2":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXu5sgsQCXMAeCBQamqC5EliIwwK3cAArifQ&usqp=CAU",
-	  "title2":"Ánh bình minh",
-	  "slide3":"https://media.doisongvietnam.vn/u/rootimage/editor/2019/09/19/15/57/21568861856_4679.jpg",
-	  "title3":"Đông ấm",
-	  "slide4":"https://hinhanhdephd.com/wp-content/uploads/2019/04/nhung-hinh-anh-anime-nu-de-thuong-nhat-2.png",
-	  "title4":"Hình ảnh sinh hoạt"
+   	  "slide1":"https://vn-test-11.slatic.net/p/bb172bf56dc4980971fce0e797bbea03.jpg",	  
+	  "slide2":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXu5sgsQCXMAeCBQamqC5EliIwwK3cAArifQ&usqp=CAU",	 
+	  "slide3":"https://media.doisongvietnam.vn/u/rootimage/editor/2019/09/19/15/57/21568861856_4679.jpg",	  
+	  "slide4":"https://hinhanhdephd.com/wp-content/uploads/2019/04/nhung-hinh-anh-anime-nu-de-thuong-nhat-2.png"
+	  
+   },
+   {
+   	 "title1":"Mùa hè ở Nhật Bản",
+   	 "title2":"Ánh bình minh",
+   	 "title3":"Đông ấm",
+   	 "title4":"Hình ảnh sinh hoạt"
    }
 ]
