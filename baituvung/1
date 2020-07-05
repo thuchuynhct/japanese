@@ -22,5 +22,9 @@
    {
       "tu":"tu6",
 	  "nghia":"nghia6"
+   },
+   {
+      "tu":"Đã hoàn thành !",
+	  "nghia": " "
    } 
 ]
