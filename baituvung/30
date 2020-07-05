@@ -8,6 +8,14 @@
 	  "nghia":"Treo"
    } ,
    {
+      "tu":"",
+	  "nghia":"Trang trí"
+   } ,
+   {
+      "tu":"",
+	  "nghia":"Sắp xếp"
+   } ,
+   {
       "tu":"Đã hoàn thành !",
 	  "nghia":" "
    }
