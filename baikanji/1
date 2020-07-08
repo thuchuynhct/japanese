@@ -76,7 +76,7 @@
 {"tu":" 糸 ","nghia":"Mịch"},
 {"tu":" 老 ","nghia":"Lão"},
 {"tu":" 艹 ","nghia":"Thảo"},
-{"tu":" 衤 ","nghia":"Y"},
+{"tu":" 衤 ","nghia":" Y "},
 {"tu":" 言 ","nghia":"Ngôn"},
 {"tu":" 貝 ","nghia":"Bối"},
 {"tu":" 酉 ","nghia":"Dậu"},
@@ -85,7 +85,7 @@
 {"tu":" 阝 ","nghia":"Ấp, Phụ"},
 {"tu":" 頁 ","nghia":"Hiệt"},
    {
-      "tu":"Đã hoàn thành !",
-	  "nghia":"  "
+      "tu":" ",
+	  "nghia":" "
    } 
 ]
