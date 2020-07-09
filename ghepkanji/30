@@ -24,5 +24,6 @@
 {"tu" : "元のところ","nghia" : "Chỗ cũ"},
 {"tu" : "周り","nghia" : "Xung quanh"},
 {"tu" : "真ん中","nghia" : "Chính giữa"},
-{"tu" : "隅","nghia" : "Góc"}
+{"tu" : "隅","nghia" : "Góc"},
+{"tu" : " ","nghia" : " "}
 ]
