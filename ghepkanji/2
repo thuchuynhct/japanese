@@ -1,0 +1,20 @@
+[
+{"tu" : " 本 ","nghia" : "ほん: Sách"},
+{"tu" : "辞書","nghia" : "じしょ: Từ điển"},
+{"tu" : "雑誌","nghia" : "ざっし: Tạp chí"},
+{"tu" : "新聞","nghia" : "しんぶん: Báo"},
+{"tu" : "手帳","nghia" : "てちょう: Sổ tay"},
+{"tu" : "名刺","nghia" : "めいし: Danh thiếp"},
+{"tu" : "鉛筆","nghia" : "えんびつ: Viết chì"},
+{"tu" : "時計","nghia" : "とけい: Đồng hồ"},
+{"tu" : " 傘 ","nghia" : "かさ: Cái dù"},
+{"tu" : "自動車","nghia" : "じどうしゃ: Xe hơi"},
+{"tu" : "英語","nghia" : "えいご: Tiếng Anh"},
+{"tu" : "日本語","nghia" : "にほんご: Tiếng Nhật"},
+{"tu" : "～語","nghia" : "～ご: Tiếng ~"},
+{"tu" : " 何 ","nghia" : "なん: Cái gì"},
+{"tu" : "違います","nghia" : "ちがいます: Không phải, sai rồi"},
+{"tu" : "ほんの気持ちです","nghia" : "ほんのきもちです: Đây là chút lòng thành"},
+{"tu" : "これからお世話になります","nghia" : "これからおせわになります: Từ nay mong được giúp đỡ"},
+{"tu" : " ","nghia" : " "}
+]
