@@ -10,7 +10,7 @@
 {"tu":" 放 ","nghia":"Phóng: Rời ra, thả ra"},
 {"tu":" 遅 ","nghia":"Trì: Trễ"},
 {"tu":" 景 ","nghia":"Cảnh: Cảnh vật"},
-{"tu":" 景 ","nghia":"Sắc: Màu sắc"},
+{"tu":" 色 ","nghia":"Sắc: Màu sắc"},
 {"tu":" 声 ","nghia":"Thanh: Giọng nói"},
 {"tu":" 巿 ","nghia":"Thị: Chợ, phố"},
 {"tu":" 具 ","nghia":"Cụ: Công cụ"},
@@ -18,11 +18,11 @@
 {"tu":" 昔 ","nghia":"Tích: Ngày xưa"},
 {"tu":" 夢 ","nghia":"Mộng: Giấc mơ"},
 {"tu":" 回 ","nghia":"Hồi: Đếm (lần)"},
-{"tu":" 永 ","nghia":"Vịnh: Bơi lội"},
+{"tu":" 泳 ","nghia":"Vịnh: Bơi lội"},
 {"tu":" 座 ","nghia":"Tọa: Ngồi"},
 {"tu":" 走 ","nghia":"Tẩu: Chạy"},
 {"tu":" 伇 ","nghia":"Dịch: Phục vụ"},
-{"tu":" 刑 ","nghia":"Hình: Hình dáng"},
+{"tu":" 形 ","nghia":"Hình: Hình dáng"},
 {"tu":" 故 ","nghia":"Cố: Cố hương, trở ngại"},
 {"tu":" 慣 ","nghia":"Quán: Tập quán, quen với"},
 {"tu":" 説 ","nghia":"Thuyết: Giải thích"},
@@ -60,7 +60,7 @@
 {"tu":" 復 ","nghia":"Phục: Trở lại"},
 {"tu":" 約 ","nghia":"Ước: Hứa, khoảng"},
    {
-      "tu":"Đã hoàn thành !",
-	  "nghia":"  "
+      "tu":" ",
+	  "nghia":" "
    } 
 ]
