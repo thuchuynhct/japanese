@@ -13,13 +13,10 @@
 {"tu" : "あります","nghia" : "Có [điện thoại]"},
 {"tu" : "だめ","nghia" : "Không được"},
 {"tu" : "おなじ","nghia" : "Giống"},
-<<<<<<< HEAD
 {"tu" : "けいさつ","nghia" : "Cảnh sát, sở cảnh sát"},
 {"tu" : "せき","nghia" : "Ghế, chỗ [ngồi]"},
-=======
-{"tu" : "けいさつ","nghia" : "Cảnh sát, sở cảnh sát"},,
-{"tu" : "せき","nghia" : "Ghế, chỗ []ngồi"},
->>>>>>> 27c9191ddad35cea35f139c2b14386dcc6813cbd
+{"tu" : "けいさつ","nghia" : "Cảnh sát, sở cảnh sát"},
+{"tu" : "せき","nghia" : "Ghế, chỗ [ngồi]"},
 {"tu" : "マーク","nghia" : "Kí hiệu"},
 {"tu" : "ボール","nghia" : "Quả bóng"},
 {"tu" : "しめきり","nghia" : "Hạn chót, hạn cuối"},
