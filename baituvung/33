@@ -11,15 +11,11 @@
 {"tu" : "はずします","nghia" : "Rời [ghế]"},
 {"tu" : "もどります","nghia" : "Trở lại, quay trở lại"},
 {"tu" : "あります","nghia" : "Có [điện thoại]"},
+{"tu" : "リサイクルします","nghia" : "Tái chế"},
 {"tu" : "だめ","nghia" : "Không được"},
 {"tu" : "おなじ","nghia" : "Giống"},
-<<<<<<< HEAD
 {"tu" : "けいさつ","nghia" : "Cảnh sát, sở cảnh sát"},
 {"tu" : "せき","nghia" : "Ghế, chỗ [ngồi]"},
-=======
-{"tu" : "けいさつ","nghia" : "Cảnh sát, sở cảnh sát"},,
-{"tu" : "せき","nghia" : "Ghế, chỗ []ngồi"},
->>>>>>> 27c9191ddad35cea35f139c2b14386dcc6813cbd
 {"tu" : "マーク","nghia" : "Kí hiệu"},
 {"tu" : "ボール","nghia" : "Quả bóng"},
 {"tu" : "しめきり","nghia" : "Hạn chót, hạn cuối"},
@@ -35,7 +31,7 @@
 {"tu" : "わりびき","nghia" : "Giảm giá"},
 {"tu" : "のみほうだい","nghia" : "Uống thoải mái không giới hạn"},
 {"tu" : "しようちゅう","nghia" : "Đang sử dụng"},
-{"tu" : "しようちゅう","nghia" : "Đang tuyển"},
+{"tu" : "ぼしゅうちゅう","nghia" : "Đang tuyển"},
 {"tu" : "―ちゅう","nghia" : "Đang~"},
 {"tu" : "どういうー","nghia" : "~ Như thế nào"},
 {"tu" : "いくら　「～でも」","nghia" : "[Dù có] ~ Bao nhiêu đi nữa"},
